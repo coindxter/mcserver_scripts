@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define variables
-SERVER_DIR="/home/owencrace/mcserver"
+SERVER_DIR="/home/USER/mcserver"
 WORLD_DIR="$SERVER_DIR/world"
 LOG_FILE="$SERVER_DIR/logs/crash.log"
 LOCK_FILE="$SERVER_DIR/crash.lock"
