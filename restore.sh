@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Define variables
-BACKUP_DIR="/home/owencrace/mcserver/backups"
-SERVER_DIR="/home/owencrace/mcserver"
+BACKUP_DIR="/home/USER/mcserver/backups"
+SERVER_DIR="/home/USER/mcserver"
 WORLD_DIR="$SERVER_DIR/world"
 LOG_FILE="$SERVER_DIR/logs/restore.log"
 LOCK_FILE="$SERVER_DIR/restore.lock"
