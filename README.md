@@ -11,8 +11,8 @@ Collection of bash scripts to automate tasks for your Minecraft server! Perfect 
 - [start.sh](#start.sh)
 
 ## backup.sh
-# Overview
-
+### Overview
+This script creates backups of the Minecraft server world directory ('world') in the form of compressed '.tar.gz' archives. It also ensures that only the 4 most recent backups are kept, automatically deleting older backups.
 ## restore.sh
 
 ## crash.sh
